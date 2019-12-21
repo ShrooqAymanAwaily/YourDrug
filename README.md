@@ -21,9 +21,7 @@ Instead of wandering the streets in search of a pharmacy to no avail we devleop 
  Your Drug App have two side section
 
 
-### The fist section:Pharmacy 
-<p align="center"> 
-<img src="https://github.com/ShrooqAymanAwaily/YourDrug/blob/master/ScreenShots/3.jpg" with="400" height="500" /></p>
+### The fist section:Pharmacy
 
 * 'your Drug' App covers 100% of pharmacies in Gaza Strip-palestine (651 pharmacies distributed in 11 cities )
  
@@ -33,8 +31,6 @@ Instead of wandering the streets in search of a pharmacy to no avail we devleop 
  
 
  ### The second section:Medical Drug
-<p align="center"> 
-<img src="https://github.com/ShrooqAymanAwaily/YourDrug/blob/master/ScreenShots/2.jpg" with="400" height="500" /></p>
 
 * the Application provides detailed information about the medical Drugs approved to use in Gaza Strip-palestine
 * it contain about 3000 kinds of medical Drugs dirtibutted in many type of Medical Drugs:<br>
