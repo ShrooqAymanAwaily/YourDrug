@@ -21,30 +21,23 @@ Instead of wandering the streets in search of a pharmacy to no avail we devleop 
  Your Drug App have two side section
 
 
-
- # Screenshots
-<p float="left">
-  <img src="https://www14.0zz0.com/2019/12/21/00/625975650.png"    />
-</p> 
-
-<p float="left">
-  <img src="https://www14.0zz0.com/2019/12/21/00/122901037.png"    />
-</p> 
-
 ### The fist section:Pharmacy 
+<p align="center"> 
+<img src="https://github.com/ShrooqAymanAwaily/YourDrug/blob/master/ScreenShots/3.jpg" with="400" height="500" /></p>
 
-- 'your Drug' App covers 100% of pharmacies in Gaza Strip-palestine (651 pharmacies distributed in 11 cities )
+* 'your Drug' App covers 100% of pharmacies in Gaza Strip-palestine (651 pharmacies distributed in 11 cities )
+ 
 
-
-- Detailed information about pharmacy location and number to be contact on urgency.
+* Detailed information about pharmacy location and number to be contact on urgency.
 
  
 
  ### The second section:Medical Drug
 <p align="center"> 
- 
-- the Application provides detailed information about the medical Drugs approved to use in Gaza Strip-palestine
-- it contain about 3000 kinds of medical Drugs dirtibutted in many type of Medical Drugs:<br>
+<img src="https://github.com/ShrooqAymanAwaily/YourDrug/blob/master/ScreenShots/2.jpg" with="400" height="500" /></p>
+
+* the Application provides detailed information about the medical Drugs approved to use in Gaza Strip-palestine
+* it contain about 3000 kinds of medical Drugs dirtibutted in many type of Medical Drugs:<br>
   
   1-caplet
 <br>
@@ -84,11 +77,24 @@ Instead of wandering the streets in search of a pharmacy to no avail we devleop 
 
  
  
- 
+## Screenshots
+ <p float="left">
+  <img src="https://i.ibb.co/LpJWZmp/one.jpg"    />
+</p> 
+<p float="left">
+  <img src="https://i.ibb.co/qrY8mtf/two.jpg"    />
+</p> 
 
+
+
+
+
+
+
+ 
 ### Disclaimer
-Your DRug is a product designed and developed by shrooq Abu Awaily and Hala Hiji.
-A
+Your Drug is a product designed and developed by shrooq Abu Awaily and Hala Hiji.
+
 
 ### License
 MIT License
@@ -121,7 +127,7 @@ For personal feedback or questions feel free to contact me via the mail address,
 * FaceBook: [Shrooq Ayman Abu Awaily](https://www.facebook.com/profile.php?id=100006261995673 )
 
 ### Summary
-| [Your Drug App GitHub Link](https://github.com/ShrooqAymanAwaily/YourDrug)  | Team Name: Your Drug  | [Shrooq Ayman Awaily](https://github.com/ShrooqAymanAwaily) 
+| [Your Drug App](https://github.com/ShrooqAymanAwaily/YourDrug/tree/master/Application)  | Team Name: Your Drug  | [Shrooq Ayman Awaily](https://github.com/ShrooqAymanAwaily) 
 
 
 
