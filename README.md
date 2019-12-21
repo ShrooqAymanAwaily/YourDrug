@@ -33,8 +33,9 @@ Instead of wandering the streets in search of a pharmacy to no avail we devleop 
  ### The second section:Medical Drug
 
 * the Application provides detailed information about the medical Drugs approved to use in Gaza Strip-palestine
-* it contain about 3000 kinds of medical Drugs dirtibutted in many type of Medical Drugs:<br>
-  
+* it contain about 3000 kinds of medical Drugs dirtibutted in many type of Medical Drugs:
+<br>
+  <br>
   1-caplet
 <br>
   2-Tablet
