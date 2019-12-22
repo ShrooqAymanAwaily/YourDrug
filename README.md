@@ -84,6 +84,8 @@ Instead of wandering the streets in search of a pharmacy to no avail we devleop 
 
 
 
+## Promotional Video
+We created a promotional video and uploaded it to Youtube. Please click to watch our video:[![Watch our video](https://www.youtube.com/watch?v=GDC1Gql7h2o&feature=youtu.be&fbclid=IwAR3YiFqP-QywHytZzEYJ-FfdrgjPB44uOES4j0-_j2zaNkwAgZlT1kakv68)
 
 
 
