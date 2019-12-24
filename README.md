@@ -75,12 +75,20 @@ Instead of wandering the streets in search of a pharmacy to no avail we devleop 
  
  
 ## Screenshots
- <p float="left">
-  <img src="https://i.ibb.co/LpJWZmp/one.jpg"    />
-</p> 
-<p float="left">
-  <img src="https://i.ibb.co/qrY8mtf/two.jpg"    />
-</p> 
+ <p align="center"> 
+    <img src="https://github.com/ShrooqAymanAwaily/YourDrug/blob/master/ScreenShots/9.png" width="231" height="500"/>
+
+<img src="https://github.com/ShrooqAymanAwaily/YourDrug/blob/master/ScreenShots/1.png" width="231" height="500"/>
+
+<p align="center"> 
+<img src="https://github.com/ShrooqAymanAwaily/YourDrug/blob/master/ScreenShots/2.png" width="231" height="500"/>
+ <img src="https://github.com/ShrooqAymanAwaily/YourDrug/blob/master/ScreenShots/3.png" width="231" height="500"/></p>
+ <p align="center"> 
+<img src="https://github.com/ShrooqAymanAwaily/YourDrug/blob/master/ScreenShots/4.png" width="231" height="500"/>
+ <img src="https://github.com/ShrooqAymanAwaily/YourDrug/blob/master/ScreenShots/5.png" width="231" height="500"/></p>
+ <p align="center"> 
+<img src="https://github.com/ShrooqAymanAwaily/YourDrug/blob/master/ScreenShots/6.png" width="231" height="500"/>
+ <img src="https://github.com/ShrooqAymanAwaily/YourDrug/blob/master/ScreenShots/7.png" width="231" height="500"/></p>
 
 
 
