@@ -139,7 +139,7 @@ For personal feedback or questions feel free to contact me via the mail address,
 * FaceBook: [Shrooq Ayman Abu Awaily](https://www.facebook.com/profile.php?id=100006261995673 )
 
 ### Summary
-| [Your Drug App](https://github.com/ShrooqAymanAwaily/YourDrug/tree/master/Application)  | Team Name: Your Drug  | [Shrooq Ayman Awaily](https://github.com/ShrooqAymanAwaily) 
+| [Your Drug App](https://github.com/ShrooqAymanAwaily/YourDrug/tree/master/Application)  | Team Name: Your Drug  |Team: [Shrooq Ayman Awaily](https://github.com/ShrooqAymanAwaily) & Hala Ramadan Hiji
 
 
 
