@@ -87,7 +87,7 @@ Instead of wandering the streets in search of a pharmacy to no avail we devleop 
 <img src="https://github.com/ShrooqAymanAwaily/YourDrug/blob/master/ScreenShots/4.png" width="231" height="500"/>
  <img src="https://github.com/ShrooqAymanAwaily/YourDrug/blob/master/ScreenShots/5.png" width="231" height="500"/></p>
  <p align="center"> 
-<img src="https://github.com/ShrooqAymanAwaily/YourDrug/blob/master/ScreenShots/6.png" width="231" height="500"/>
+<img src="https://github.com/ShrooqAymanAwaily/YourDrug/blob/master/ScreenShots/8.png" width="231" height="500"/>
  <img src="https://github.com/ShrooqAymanAwaily/YourDrug/blob/master/ScreenShots/7.png" width="231" height="500"/></p>
 
 
